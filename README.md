@@ -9,9 +9,9 @@
 
 # **Contact**
 Contact me if you have any questions, or any additions.
-| Contact Method                | Address
-| ----------------------------- |
-| XMPP                          | `move [at] xmpp [dot] jp`
+| Contact Method                | Address                            |
+| ----------------------------- | ---------------------------------- |
+| XMPP                          | `move [at] xmpp [dot] jp` |
 | Session                       | `0573ed31f3fdee565ee0d2e438c6655b6099077b41e565c03905281d1128acc326` |
 
 # **Donate**
