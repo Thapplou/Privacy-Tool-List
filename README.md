@@ -9,7 +9,7 @@
 
 # **Contact**
 Contact me if you have any questions, or any additions.
-| Contact Method                | Address                            |
+| Contact Method                | Address |
 | ----------------------------- | ---------------------------------- |
 | XMPP                          | `move [at] xmpp [dot] jp` |
 | Session                       | `0573ed31f3fdee565ee0d2e438c6655b6099077b41e565c03905281d1128acc326` |
@@ -17,7 +17,7 @@ Contact me if you have any questions, or any additions.
 # **Donate**
 If you find this list helpful, please considering donating!
 
-| Cryptocurrency                | Wallet Address                            |
+| Cryptocurrency                | Wallet Address  |
 | ----------------------------- | ----------------------------------------- |
 | **Bitcoin** (**BTC**)         | `bc1qm9u5u3gj0e4ccnanaesp55mh3g3kc2fy8n33gh` |
 | **Monero** (**XMR**)          | `85w6KmZciv9cg7qN8PmdJnNKjAZULEi1jSVvyPj3mEX1DCfcAHCftLSGPCZjgCpKbMCpVKvC12fdEbZvopzHxkwr9W2Ex41` |
