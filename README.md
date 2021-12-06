@@ -5,7 +5,7 @@
 
 **Disclaimer:**
 
-***I'm not sponsored or affiliated by any service discussed on this list. This list was made to improve the privacy, and security of the average person. I will not discuss the issues that each service has, nor will I give an overwhelming amount of information. Privacy, and security are two large fields that are ever-expanding, If you want to learn more about this I've linked some resources below. I'm not responsible in any way for what you do with this information.***
+***I'm not sponsored or affiliated by any service discussed on this list. This list is made to improve the privacy, and security of the average person while remaining objective. I will not discuss the issues that each service has, nor give an overwhelming amount of tools. Privacy, and security are two large fields that are ever-expanding, if you want to learn more about this I've linked some resources below. I'm not responsible in any way for what you do with this information.***
 
 # **Contact**
 Contact me if you have any questions, or additions.
@@ -18,6 +18,6 @@ Contact me if you have any questions, or additions.
 If you find this list helpful, please considering donating!
 
 | Cryptocurrency                | Wallet Address  |
-| ----------------------------- | ----------------------------------------- |
+| ----------------------------- | --------------- |
 | **Bitcoin** (**BTC**)         | `bc1qm9u5u3gj0e4ccnanaesp55mh3g3kc2fy8n33gh` |
 | **Monero** (**XMR**)          | `85w6KmZciv9cg7qN8PmdJnNKjAZULEi1jSVvyPj3mEX1DCfcAHCftLSGPCZjgCpKbMCpVKvC12fdEbZvopzHxkwr9W2Ex41` |
