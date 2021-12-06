@@ -1,5 +1,5 @@
 # **Privacy Tool List**
-### A curated list to improve the privacy, and security of your digital life.
+### A list curated to improve the privacy, and security of your digital life.
 
 ![eff-privacy](images/eff-privacy.png)
 
