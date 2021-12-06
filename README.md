@@ -1,5 +1,5 @@
 # **Privacy Tool List**
-###A curated list to improve the privacy, and security of your digital life.
+### A curated list to improve the privacy, and security of your digital life.
 
 **Disclaimer:**
 
