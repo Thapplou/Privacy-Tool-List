@@ -9,7 +9,13 @@
 
 | Table of Contents |
 | ----------------- |
-| [Introduction](https://github.com/Thapplou/Privacy-Tool-List/tree/main/Introduction)      |
+| [Introduction](https://github.com/Thapplou/Privacy-Tool-List/tree/main/Introduction)  |
+|                   |
+|                   |
+|                   |
+|                   |
+| [Contact](https://github.com/Thapplou/Privacy-Tool-List#contact)  |
+| [Donate](https://github.com/Thapplou/Privacy-Tool-List#donate)  |
 
 
 # **Contact**
