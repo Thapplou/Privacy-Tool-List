@@ -9,7 +9,7 @@
 
 | Table of Contents |
 | ----------------- |
-| Introduction      |
+| [Introduction](https://github.com/Thapplou/Privacy-Tool-List/tree/main/Introduction)      |
 
 
 # **Contact**
